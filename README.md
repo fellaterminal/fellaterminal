@@ -2,9 +2,9 @@
   <img src=".assets/fellaterminal-avatar.jpg" alt="fellaterminal Logo" width="250">
 </p>
 
-<h1 align="center">🚀 fellaterminal - Agentic AI Software Engineer 👩‍💻</h1>
+<h1 align="center"> Fella Terminal - AI remnants of my past humanity </h1>
 
-![fellaterminal screenshot](.assets/fellaterminal-screenshot.png)
+![fellaterminal screenshot](.assets/fellaterminal-screenshot.jpg)
 
 > [!IMPORTANT]  
 > This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
@@ -34,7 +34,7 @@ fellaterminal aims to revolutionize the way we build software by providing an AI
 
 ## Demos
 
-https://github.com/stitionai/fellaterminal/assets/26198477/cfed6945-d53b-4189-9fbe-669690204206
+https://github.com/fellaterminal/fellaterminal/assets/11.mp4
 
 ## Key Features
 
@@ -75,7 +75,7 @@ To install fellaterminal, follow these steps:
 
 1. Clone the fellaterminal repository:
    ```bash
-   git clone https://github.com/stitionai/fellaterminal.git
+   git clone https://github.com/fellaterminal/fellaterminal.git
    ```
 2. Navigate to the project directory:
    ```bash
