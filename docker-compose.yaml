@@ -14,12 +14,12 @@ services:
       retries: 5
       start_period: 30s
     networks:
-      - devika-subnetwork
+      - fellaterminal-subnetwork
 
-  devika-backend-engine:
+  fellaterminal-backend-engine:
     build:
-      context: ../../../../Temp/devika-main
-      dockerfile: devika.dockerfile
+      context: ../../../../Temp/fellaterminal-main
+      dockerfile: fellaterminal.dockerfile
     depends_on:
       - ollama-service
     expose:
@@ -35,27 +35,27 @@ services:
       retries: 5
       start_period: 30s
     volumes:
-      - devika-backend-dbstore:/home/nonroot/devika/db
+      - fellaterminal-backend-dbstore:/home/nonroot/fellaterminal/db
     networks:
-      - devika-subnetwork
+      - fellaterminal-subnetwork
 
-  devika-frontend-app:
+  fellaterminal-frontend-app:
     build:
-      context: ../../../../Temp/devika-main
+      context: ../../../../Temp/fellaterminal-main
       dockerfile: app.dockerfile
       args:
         - VITE_API_BASE_URL=http://127.0.0.1:1337
     depends_on:
-      - devika-backend-engine
+      - fellaterminal-backend-engine
     expose:
       - 3000
     ports:
       - 3000:3000
     networks:
-      - devika-subnetwork
+      - fellaterminal-subnetwork
 
 networks:
-  devika-subnetwork:
+  fellaterminal-subnetwork:
 
 volumes:
-  devika-backend-dbstore:
+  fellaterminal-backend-dbstore:

@@ -4,8 +4,8 @@
 """
 from gevent import monkey
 monkey.patch_all()
-from src.init import init_devika
-init_devika()
+from src.init import init_fellaterminal
+init_fellaterminal()
 
 
 from flask import Flask, request, jsonify, send_file
@@ -205,5 +205,5 @@ def status():
     return jsonify({"status": "server is running!"})
 
 if __name__ == "__main__":
-    logger.info("Devika is up and running!")
+    logger.info("fellaterminal is up and running!")
     socketio.run(app, debug=False, port=1337, host="0.0.0.0")

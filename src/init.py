@@ -3,10 +3,10 @@ from src.config import Config
 from src.logger import Logger
 
 
-def init_devika():
+def init_fellaterminal():
     logger = Logger()
 
-    logger.info("Initializing Devika...")
+    logger.info("Initializing fellaterminal...")
     logger.info("checking configurations...")
     
     config = Config()
