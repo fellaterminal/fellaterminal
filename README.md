@@ -34,8 +34,7 @@ fellaterminal aims to revolutionize the way we build software by providing an AI
 
 ## Demos
 
-
-[![asciicast]](https://github.com/fellaterminal/fellaterminal/blob/main/.assets/11.mp4)
+https://github.com/fellaterminal/fellaterminal/blob/main/.assets/11.mp4
 
 ## Key Features
 
