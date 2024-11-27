@@ -34,7 +34,7 @@ fellaterminal aims to revolutionize the way we build software by providing an AI
 
 ## Demos
 
-https://github.com/fellaterminal/fellaterminal/blob/main/.assets/11.mp4
+![fellaterminal video](.assets/11.mp4)
 
 ## Key Features
 
@@ -165,18 +165,6 @@ We also have a Discord server for the fellaterminal community, where you can con
 ## License
 
 fellaterminal is released under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
-
-## Star History
-
-<div align="center">
-<a href="https://star-history.com/#stitionai/fellaterminal&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=stitionai/fellaterminal&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=stitionai/fellaterminal&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=stitionai/fellaterminal&type=Date" />
- </picture>
-</a>
-</div>
 
 ---
 
