@@ -33,9 +33,8 @@ fellaterminal aims to revolutionize the way we build software by providing an AI
 > fellaterminal is modeled after [Devin](https://www.cognition-labs.com/introducing-devin) by Cognition AI. This project aims to be an open-source alternative to Devin with an "overly ambitious" goal to meet the same score as Devin in the [SWE-bench](https://www.swebench.com/) Benchmarks... and eventually beat it?
 
 ## Demos
-<video controls loop muted autoplay src=".assets/fellaterminal-pygame-demo.mp4">
-</video>
 
+[fellaterminal-pygame-demo.mp4](.assets%2Ffellaterminal-pygame-demo.mp4)
 
 ## Key Features
 
