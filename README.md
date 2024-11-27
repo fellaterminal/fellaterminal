@@ -17,9 +17,7 @@
   - [Installation](#installation)
   - [How to use](#how-to-use)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [Help and Support](#help-and-support)
-- [License](#license)
+
 
 ## About
 
@@ -37,11 +35,8 @@ Fellaterminal aims to revolutionize the way we build software by providing an AI
 - 🤖 Supports **Claude 3**, **GPT-4**, **Gemini**, **Mistral** , **Groq** and **Local LLMs** via [Ollama](https://ollama.com). For optimal performance: Use the **Claude 3** family of models.
 - 🧠 Advanced AI planning and reasoning capabilities
 - 🔍 Contextual keyword extraction for focused research
-- 🌐 Seamless web browsing and information gathering
-- 💻 Code writing in multiple programming languages
 - 📊 Dynamic agent state tracking and visualization
 - 💬 Natural language interaction via chat interface
-- 📂 Project-based organization and management
 - 🔌 Extensible architecture for adding new features and integrations
 
 ## System Architecture
