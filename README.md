@@ -34,7 +34,7 @@ fellaterminal aims to revolutionize the way we build software by providing an AI
 
 ## Demos
 
-![fellaterminal video](.assets/11.mp4)
+[fellaterminal video](.assets/11.mp4)
 
 ## Key Features
 
