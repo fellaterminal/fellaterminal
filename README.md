@@ -6,8 +6,6 @@
 
 ![fellaterminal screenshot](.assets/fellaterminal-screenshot.jpg)
 
-> [!IMPORTANT]  
-> This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
 
 ## Table of Contents
 
@@ -29,8 +27,6 @@ Fellaterminal is an advanced AI software engineer that can understand high-level
 
 Fellaterminal aims to revolutionize the way we build software by providing an AI pair programmer who can take on complex coding tasks with minimal human guidance. Whether you need to create a new feature, fix a bug, or develop an entire project from scratch, fellaterminal is here to assist you.
 
-> [!NOTE]
-> fellaterminal is modeled after [Devin](https://www.cognition-labs.com/introducing-devin) by Cognition AI. This project aims to be an open-source alternative to Devin with an "overly ambitious" goal to meet the same score as Devin in the [SWE-bench](https://www.swebench.com/) Benchmarks... and eventually beat it?
 
 ## Demos
 
