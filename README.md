@@ -25,16 +25,15 @@
 
 ## About
 
-fellaterminal is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. fellaterminal utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.
+Fellaterminal is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. fellaterminal utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.
 
-fellaterminal aims to revolutionize the way we build software by providing an AI pair programmer who can take on complex coding tasks with minimal human guidance. Whether you need to create a new feature, fix a bug, or develop an entire project from scratch, fellaterminal is here to assist you.
+Fellaterminal aims to revolutionize the way we build software by providing an AI pair programmer who can take on complex coding tasks with minimal human guidance. Whether you need to create a new feature, fix a bug, or develop an entire project from scratch, fellaterminal is here to assist you.
 
 > [!NOTE]
 > fellaterminal is modeled after [Devin](https://www.cognition-labs.com/introducing-devin) by Cognition AI. This project aims to be an open-source alternative to Devin with an "overly ambitious" goal to meet the same score as Devin in the [SWE-bench](https://www.swebench.com/) Benchmarks... and eventually beat it?
 
 ## Demos
 
-(.assets%2Ffellaterminal-pygame-demo.mp4)
 ![fellaterminal video](.assets/DEMO.gif)
 
 ## Key Features
