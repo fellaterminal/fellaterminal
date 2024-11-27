@@ -35,6 +35,7 @@ fellaterminal aims to revolutionize the way we build software by providing an AI
 ## Demos
 
 (.assets%2Ffellaterminal-pygame-demo.mp4)
+![fellaterminal video](.assets/DEMO.gif)
 
 ## Key Features
 
