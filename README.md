@@ -150,22 +150,3 @@ when you first time run fellaterminal, it will create a `config.toml` file for y
    - `OPENAI`: The OpenAI API endpoint for accessing OpenAI models.
 
 Make sure to keep your API keys secure and do not share them publicly. For setting up the Bing and Google search API keys, follow the instructions in the [search engine setup](docs/Installation/search_engine.md)
-
-
-## Contributing
-
-We welcome contributions to enhance fellaterminal's capabilities and improve its performance. To contribute, please see the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for steps.
-
-## Help and Support
-
-If you have any questions, feedback, or suggestions, please feel free to reach out to us. you can raise an issue in the [issue tracker](https://github.com/stitionai/fellaterminal/issues) or join the [discussions](https://github.com/stitionai/fellaterminal/discussions) for general discussions.
-
-We also have a Discord server for the fellaterminal community, where you can connect with other users, share your experiences, ask questions, and collaborate on the project. To join the fellaterminal community Discord server, [click here](https://discord.gg/CYRp43878y).
-
-## License
-
-fellaterminal is released under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
-
----
-
-We hope you find fellaterminal to be a valuable tool in your software development journey. If you have any questions, feedback, or suggestions, please don't hesitate to reach out. Happy coding with fellaterminal!
